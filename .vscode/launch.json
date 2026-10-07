@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "2-SAT",
+            "request": "launch",
+            "mainClass": "com.company.Main",
+            "args": ["formule-2-sat.txt", "formule-3-6.txt", "formule-40-80.txt"],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
